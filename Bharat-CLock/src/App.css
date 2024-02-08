@@ -1,0 +1,12 @@
+* {
+    background-color: bisque;
+}
+
+.main-heading {
+    margin-top: 200px;
+    color: brown;
+}
+
+.para-bold {
+    font-weight: 500;
+}
